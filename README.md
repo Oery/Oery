@@ -24,14 +24,14 @@ In parallel of building software, I'm also pushing my limits through challenges.
 ## 🚀 Some projects I'm building
 
 ### 🪞 Kagami
-A developer-first TCP proxy for Minecraft.
+A developer-first client side TCP proxy for Minecraft.
 Kagami empowers developers to expand Minecraft with custom features via packet manipulation.
 
 - Modify, filter, or inject packets into TCP traffic with ease.
 - Fully type-safe packets for an intuitive developer experience.
 - Built-in Minecraft protocol implementation.
 
-Kagami bridges the gap between Minecraft servers and external applications, making it easier than ever to build unique gaming experiences.
+Kagami bridges the gap between Minecraft closed clients and external applications.
 
 ### ⚔️ Godhome Elo Counter
 A Hollow Knight mod that introduces an ELO rating system for Godhome.
