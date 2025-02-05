@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1336690962017030185/1336691061099335680/00411-893900773.png?ex=67a4ba0f&is=67a3688f&hm=3731be9c2c349912ee8211ed2840cd008b08ea7ff999b9347dba2d5c1c157cd9&" />
+<img src="./00411-893900773.png" />
 
 ## My Projects
 
