@@ -1,4 +1,4 @@
-<img src="./00411-893900773.png" />
+<img src="./00411-893900773.webp" />
 
 ## My Projects
 
@@ -7,10 +7,12 @@ Hey, I'm a SWE student with a passion for learning. When I'm not trying to beat 
 Most of my projects are built in Rust.
 
 ### 🧊 Gami Minecraft Protocol
+
 My implementation of the Minecraft protocol in Rust.
 It includes a packet serializer/deserializer, easy to use structs that abstracts all encoding constraints and IDs through enum registries.
 
 ### 🪞 Kagami
+
 A Minecraft client-side TCP proxy that allows devs to create plugins and interact with the client without requiring any modification. It provides a simple event system and API to inject/edit packets.
 
 ### 🦢 Origami
