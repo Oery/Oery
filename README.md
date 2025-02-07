@@ -20,6 +20,10 @@ A Minecraft client-side TCP proxy that allows devs to create plugins and interac
 A programmable Minecraft client that can be used to create AIs / Bots / Agents.
 It focuses on performances and accuracy, trying to mimick a real client as closely as possible while maintaining low cpu and memory usage in scenarios where many bots run concurrently.
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Oery&layout=compact&theme=github_dark&hide_border=true" width="500" align="right"/>
+
 ## My End Goal
 
 My work aims to solve the many challenges this game faced during its golden age, slowly killing minigames servers and competitive Minecraft.
+
+
