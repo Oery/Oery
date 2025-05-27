@@ -5,9 +5,9 @@
 I'm *Oery*, a self teaching dev with a passion for learning. I'm currently interested in low level programming.
 
 ### Active Projects
-- [Origami](www.github.com/oery/origami) : a library for building Minecraft bots in Rust
-- [Kagami](www.github.com/oery/kagami) : a framework for building client side Minecraft plugins in Rust
+- [Origami](https://www.github.com/oery/origami) : a library for building Minecraft bots in Rust
+- [Kagami](https://www.github.com/oery/kagami) : a framework for building client side Minecraft plugins in Rust
 
-Both of those projects uses [Gami_MC_Protocol](www.github.com/oery/gami_mc_protocol), my rust-based implementation of the Minecraft Network protocol.
+Both of those projects uses [Gami_MC_Protocol](https://www.github.com/oery/gami_mc_protocol), my rust-based implementation of the Minecraft Network protocol.
 
 *₍^. .^₎⟆*
