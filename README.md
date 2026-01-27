@@ -1,5 +1,3 @@
-<img src="./00411-893900773.webp" />
-
 # > Hey_
 
 I'm *Oery*, a self teaching dev with a passion for learning. I'm currently interested in low level programming.
